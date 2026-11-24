@@ -1,0 +1,2 @@
+/* ناونیشانی سێرڤەر: Web App URLـی Google Apps Script لێرە دابنێ (بە /exec کۆتایی دێت) */
+window.UOS_SERVER = 'https://script.google.com/macros/s/AKfycbz4zhYzWFV84eUlfguKXy-4Nv_z3FhLtLri7avmo6di3oW5nbf_DFsNOnHCryLbuHYkew/exec';
